@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Mansueto_SweetNote</string>
+    <string name="about_us_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ex pretium, dictum arcu et, cursus eros. Suspendisse potenti. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum malesuada augue at pulvinar tincidunt. Sed euismod pretium mattis.</string>
+
 </resources>
